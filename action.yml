@@ -5,7 +5,7 @@ inputs:
   version:
     description: 'Version of ducttape to download'
     required: false
-    default: '0.9'
+    default: '1.0'
 runs:
   using: 'composite'
   steps:
